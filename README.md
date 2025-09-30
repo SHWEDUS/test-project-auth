@@ -66,19 +66,15 @@
 
 ### Установка зависимостей
 
-\`\`\`bash
 npm install
 # или
 yarn install
-\`\`\`
 
 ### Запуск в режиме разработки
 
-\`\`\`bash
 npm run dev
 # или
 yarn dev
-\`\`\`
 
 Приложение будет доступно по адресу [http://localhost:5173](http://localhost:5173)
 
