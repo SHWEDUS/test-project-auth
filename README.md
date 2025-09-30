@@ -65,16 +65,23 @@
 - npm или yarn
 
 ### Установка зависимостей
-
+```bash exec="1" source="material-block"
 npm install
+```
 или
+```bash exec="1" source="material-block"
 yarn install
+```
 
 ### Запуск в режиме разработки
 
-npm run dev
+```bash exec="1" source="material-block"
+npm start
+```
 или
-yarn dev
+```bash exec="1" source="material-block"
+yarn start
+```
 
 Приложение будет доступно по адресу [http://localhost:5173](http://localhost:5173)
 
